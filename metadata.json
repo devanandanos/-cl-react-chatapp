@@ -1,0 +1,5 @@
+{
+  "name": "React Firebase Chat",
+  "description": "A fully functional multi-room chat application using React.js and Firebase. To set this up, create a new Firebase project, enable Firestore and Authentication (Email/Password and Google providers). Then, create a web app in your Firebase project settings, copy the Firebase config object, and paste it into the `services/firebase.ts` file, replacing the placeholder values.",
+  "requestFramePermissions": []
+}
